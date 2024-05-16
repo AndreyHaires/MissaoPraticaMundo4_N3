@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Doma</string>
+    <string name="btn_home">Início</string>
+    <string name="txt_pending_notifications">Avisos pendentes!</string>
+    <string name="txt_no_notifications">Sem avisos Pendentes</string>
+    <string name="btn_read_messages">Mensagens</string>
+    <string name="btn_voice_command">Comando de Voz</string>
+    <string name="default_notification_channel_id">ID_DO_CANAL_DE_NOTIFICAÇÃO</string>
+    <string name="channel_name">Meu Canal de Notificação</string>
+    <string name="channel_description">Descrição do meu canal de notificação</string>
+</resources>

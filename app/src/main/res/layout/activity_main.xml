@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <!-- Icone para notificações pendentes -->
+    <ImageView
+        android:id="@+id/notificationIcon"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_centerHorizontal="true"
+        android:src="@drawable/baseline_notification_important_24"
+        android:layout_marginTop="8dp"
+        app:tint="@color/colorAccent" />
+
+    <!-- Texto "Notificações Pendentes" -->
+    <TextView
+        android:id="@+id/txtPendingNotifications"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/notificationIcon"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="0dp"
+        android:text="@string/txt_pending_notifications"
+        android:textColor="@color/colorAccent"
+        android:textSize="11sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/txtAfterReadingNotifications"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/notificationIcon"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="5dp"
+        android:text="@string/txt_no_notifications"
+        android:textColor="#4CAF50"
+        android:textSize="11sp"
+        android:textStyle="bold"
+        android:visibility="gone" />
+
+    <!-- Botão para abrir a MessageListActivity -->
+    <Button
+        android:id="@+id/btnReadMessages"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/txtAfterReadingNotifications"
+        android:layout_centerInParent="true"
+        android:layout_marginTop="26dp"
+        android:backgroundTint="#03A9F4"
+        android:text="@string/btn_read_messages"
+        android:textSize="12sp" />
+
+    <!-- Botão para comando de voz -->
+    <Button
+        android:id="@+id/btnVoiceCommand"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/btnReadMessages"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="2dp"
+        android:backgroundTint="#03A9F4"
+        android:text="@string/btn_voice_command"
+        android:textSize="12sp" />
+
+
+
+
+
+
+</RelativeLayout>

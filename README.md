@@ -24,7 +24,7 @@ O Doma Wearable App é um aplicativo desenvolvido para dispositivos vestíveis A
 
 4. **Comando de Voz:** Toque no botão "Comando de Voz" para ativar o reconhecimento de voz. Fale "ler notificações" para acionar a leitura das mensagens.
 
-5. **Icone de Notificação:"" Após ler as notificações o status do icone de notificação atualiza de para "Sem avisos Pendentes".
+5. **Icone de Notificação:** Após ler as notificações o status do icone de notificação atualiza de para "Sem avisos Pendentes".
 
 ## Pré-requisitos
 

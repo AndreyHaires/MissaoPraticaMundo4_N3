@@ -1,3 +1,9 @@
+# Universidade Estácio de Sá
+Andrey Haertel Aires - T: 9001
+Missão Prática Mundo 4 - Nível 3
+
+---
+
 # Doma Wearable App
 
 O Doma Wearable App é um aplicativo desenvolvido para dispositivos vestíveis Android, como smartwatches. Ele oferece funcionalidades para ler mensagens e comandos de voz usando o Text-to-Speech e Speech Recognition.
@@ -33,10 +39,3 @@ O Doma Wearable App é um aplicativo desenvolvido para dispositivos vestíveis A
 - Text-to-Speech (TTS) API: API utilizada para transformar texto em voz para a leitura das mensagens.
 
 - Speech Recognition API: API utilizada para reconhecer comandos de voz e acionar a leitura das mensagens.
-
-
-## Universidade Estácio de Sá
-
-**Andrey Haertel Aires -  T: 9001**
-
-Missão Prática Mundo 4 - Nível 3

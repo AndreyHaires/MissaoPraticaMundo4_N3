@@ -6,7 +6,7 @@ O Doma Wearable App é um aplicativo desenvolvido para dispositivos vestíveis A
 
 - **Leitura de Mensagens:** O aplicativo permite que o usuário visualize e leia mensagens diretamente do seu smartwatch.
   
-- **Comando de Voz:** Utilizando o comando de voz, o usuário pode acionar a leitura das mensagens apenas com sua voz.
+- **Comando de Voz:** Utilizando o comando de voz, o usuário pode acionar a leitura das notificaçãoes apenas com sua voz.
 
 ## Como Utilizar
 
@@ -35,3 +35,8 @@ O Doma Wearable App é um aplicativo desenvolvido para dispositivos vestíveis A
 - Speech Recognition API: API utilizada para reconhecer comandos de voz e acionar a leitura das mensagens.
 
 
+## Universidade Estácio de Sá
+
+**Andrey Haertel Aires -  T: 9001**
+
+Missão Prática Mundo 4 - Nível 3
